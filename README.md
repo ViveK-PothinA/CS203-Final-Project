@@ -1,5 +1,8 @@
 # CS203 Final Project
 
+### References
+[https://userweb.cs.txstate.edu/~burtscher/papers/tr98.pdf](Burtscher M, Zorn BG. Load value prediction using prediction outcome histories. Unpublished Technical Report CU-CS-873-98, University of Colorado at Boulder. 1998 Oct.)
+
 ### Analysis
 
 #### Accuracy, hit rate vs address bits
